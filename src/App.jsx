@@ -1,7 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
 import { Route, Routes, useLocation, useNavigate } from "react-router-dom";
-import Footer from "./components/footer";
+import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
 import MoviePage from "./pages/MoviePage";
 import SearchPage from "./pages/SearchPage";
